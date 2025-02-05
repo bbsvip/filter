@@ -1,23 +1,38 @@
-data-rep.livetech.shopee.vn
-*.nlb.sgw.shopeemobile.com
-chatroom-live.shopee.vn
-apm.tracking.shopee.vn
-dp.tracking.shopee.vn
-ubta.tracking.shopee.vn
-ubt.tracking.shopee.vn
-dem.shopee.com
-c-api-bit.shopeemobile.com
-patronus.idata.shopeemobile.com
-remote-config.gsld.sgw.shopeemobile.com
-seller.shopee.*
-ccms.shopee.io
-food-metric.shopee.co.id
-live.shopee.co.id
-live-apm.shopee.co.id
-livetech.shopee.co.id
-data-rep.livetech.shopee.co.id
-log-collector.shopee.co.id
-msdk.shopee.co.id
-sv.shopee.co.id
-ug-api.sv.shopee.co.id
-df.infra.sz.shopee.co.id
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 data-rep.livetech.shopee.vn
+0.0.0.0 *.nlb.sgw.shopeemobile.com
+0.0.0.0 chatroom-live.shopee.vn
+0.0.0.0 apm.tracking.shopee.vn
+0.0.0.0 dp.tracking.shopee.vn
+0.0.0.0 ubta.tracking.shopee.vn
+0.0.0.0 ubt.tracking.shopee.vn
+0.0.0.0 dem.shopee.com
+0.0.0.0 c-api-bit.shopeemobile.com
+0.0.0.0 patronus.idata.shopeemobile.com
+0.0.0.0 remote-config.gsld.sgw.shopeemobile.com
+0.0.0.0 seller.shopee.*
+0.0.0.0 ccms.shopee.io
+0.0.0.0 food-metric.shopee.co.id
+0.0.0.0 live.shopee.co.id
+0.0.0.0 live-apm.shopee.co.id
+0.0.0.0 livetech.shopee.co.id
+0.0.0.0 data-rep.livetech.shopee.co.id
+0.0.0.0 log-collector.shopee.co.id
+0.0.0.0 msdk.shopee.co.id
+0.0.0.0 sv.shopee.co.id
+0.0.0.0 ug-api.sv.shopee.co.id
+0.0.0.0 df.infra.sz.shopee.co.id
